@@ -1,1 +1,2 @@
-
+For this project, we have collected data from two Kaggle dataset from 2017 to 2020 based on differnt countries to provide the ability for the users to access an integrated data of trending videos to benefit from these data for their analysis. 
+we have considered three files in this repository to show our database schema, primary and foreign keys and some SQL queries which show the relationship between the trending videos and differnt parameters to be processed in the next step for static data mining process. 
