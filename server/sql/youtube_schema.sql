@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS db656_s6amini;
-USE db656_s6amini;
+CREATE DATABASE IF NOT EXISTS database_name;
+USE database_name;
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
