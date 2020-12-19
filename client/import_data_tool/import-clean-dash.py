@@ -10,7 +10,7 @@ from flask import Flask, send_from_directory
 from urllib.parse import quote as urlquote
 import mysql.connector
 
-conn = mysql.connector.connect(user='s6amini', password='saraamini', host='marmoset04.shoshin.uwaterloo.ca', database='db656_s6amini')
+conn = mysql.connector.connect(user='user', password='password', host='host', database='database')
 cursor = conn.cursor()
 cursor.execute('SET NAMES utf8mb4;')
 cursor.execute('SET CHARACTER SET utf8mb4;')
