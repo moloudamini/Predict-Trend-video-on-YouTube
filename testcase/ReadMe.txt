@@ -1,1 +1,1 @@
-
+For this project, we have considered some test functions to evaluate the performance of our model based on different parameters. The test functions have been processed by a Unittest module in Python. 
