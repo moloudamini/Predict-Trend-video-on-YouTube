@@ -9,7 +9,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import mysql.connector
-conn = mysql.connector.connect(user='s6amini', password='saraamini', host='marmoset04.shoshin.uwaterloo.ca', database='db656_s6amini')
+conn = mysql.connector.connect(user='user', password='password', host='host', database='database')
 
 def generate_table(dataframe, max_rows=10):
     return html.Table([
