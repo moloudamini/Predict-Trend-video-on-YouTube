@@ -1,1 +1,1 @@
-
+For this project, we have desinged a raltional database using MySQL to collect the data of YouTube trending videos from two Kaggle datasets based on differnt countries to provide an integrated database for predicting the next trending video for Youtubers. 
