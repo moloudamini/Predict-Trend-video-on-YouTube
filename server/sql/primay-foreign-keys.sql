@@ -1,4 +1,4 @@
-USE db656_s6amini;
+USE database_name;
 
 ALTER TABLE Videos_CA
 ADD PRIMARY KEY (video_id);
