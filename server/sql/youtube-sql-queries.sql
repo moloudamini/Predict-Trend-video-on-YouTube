@@ -1,4 +1,4 @@
-USE db656_s6amini;
+USE database_name;
 
 -- The top 3 videos that their views are higher than the average of views based on a specific publish_time and trending_date
 SELECT DISTINCT T1.*, T3.title
