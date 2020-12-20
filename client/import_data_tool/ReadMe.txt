@@ -1,1 +1,2 @@
-
+To use our import_data_tool function to load the latest data from Kaggle to MySQL, you have to download a csv file from Kaggle website and then upload it in app. after uploading the csv file,you can use one of buttons to insert the latest data into main tmp table or video or view tables.  
+We have also considered some clean functions to satisfy the consistency of new data with the previous data in the related tables in our database. 
